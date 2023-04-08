@@ -1,0 +1,12 @@
+# ninja log v5
+1	395	1680958642526625037	CMakeFiles/linear_equation_solver.dir/matrix.c.o	b4ec0bac4be1d83a
+0	395	1680958642525706928	CMakeFiles/linear_equation_solver.dir/main.c.o	7330a539351d71cf
+395	469	1680958642602338831	linear_equation_solver	43e848b20c11cfac
+1	395	1680958684752472676	CMakeFiles/linear_equation_solver.dir/main.c.o	7330a539351d71cf
+395	467	1680958684827627792	linear_equation_solver	43e848b20c11cfac
+2	59	1680958733845711751	CMakeFiles/linear_equation_solver.dir/main.c.o	7330a539351d71cf
+59	111	1680958733898693941	linear_equation_solver	43e848b20c11cfac
+2	66	1680958742160467598	CMakeFiles/linear_equation_solver.dir/main.c.o	7330a539351d71cf
+66	119	1680958742213807114	linear_equation_solver	43e848b20c11cfac
+2	441	1680958798244920887	CMakeFiles/linear_equation_solver.dir/main.c.o	7330a539351d71cf
+441	514	1680958798320228582	linear_equation_solver	43e848b20c11cfac
